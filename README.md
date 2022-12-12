@@ -34,4 +34,7 @@ I contested the grade of 9.85 taken in the baccalaureate's math exam 🫣.
 I want to be part of the people who make the community better, so I tried being part of a political party once, and actually went with a basketball court project to the city's mayor. It was implemented years ago in my hometown, it's about 14m length and 7.5m wide, and it's still freely used in the central park 🏀.  
 I like working on personal projects in my spare time. I have created a big speaker of ~120cm length and ~50cm height from scratch, and it stays connected to my TV using Bluetooth for some years now 🔊.
 
-I own photos of both the speaker and the basketball court, send me a message if you want to see any 📷.
+Here are some photos of the speaker and the basketball court if you want to see any 📷:  
+Speaker with leds off: https://github.com/DanutGavrus/Photos/blob/master/2.%20Photo%20Of%20Speaker.jpg  
+Speaker with leds on: https://github.com/DanutGavrus/Photos/blob/master/1.%20Photo%20With%20Leds%20On.jpg  
+Basketball court: https://github.com/DanutGavrus/Photos/blob/master/10.%20Basketball%20court.png
