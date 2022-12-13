@@ -8,16 +8,17 @@ Below you may analyze my gathered IT knowledge 🕵🏻, and read some things ab
 - Back-end: Java, Kotlin, Python, SQL
 - Mobile: Kotlin - Android
 - Front-end: HTML, CSS, JS, TS, React
-- Game dev: C# - Unity
 
 ### 👌 Good understanding of
+- Payment Systems: Worked in a company which develops payment systems for almost 2.5 years
+- Game development: C# - Unity
 - Fundamental Algorithms and Data Structures: C & C++
 - OS: Linux
 - Other technologies: Docker, RabbitMQ, Heroku
 
 ### 💡 General understanding of
-- Payment Systems: Worked in a company which develops payment systems for almost 2.5 years
 - AI: Python(Developed my Bachelor's Thesis "Get song suggestions on Spotify based on your facial emotions")
+- OS: POSIX
 - Other technologies: Kafka, Zookeper, Mirror Maker
 
 ## About me 👁️‍🗨️
