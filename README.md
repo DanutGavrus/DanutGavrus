@@ -11,7 +11,7 @@ Below you may analyze my gathered IT knowledge 🕵🏻, and read some things ab
 
 ### 👌 Good understanding of
 - Payment Systems: Worked in a company which develops payment systems for almost 2.5 years
-- Game development: C# - Unity
+- Game Development: C# - Unity
 - Fundamental Algorithms and Data Structures: C & C++
 - OS: Linux
 - Other technologies: Docker, RabbitMQ, Heroku
