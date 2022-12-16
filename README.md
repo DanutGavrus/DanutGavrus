@@ -19,7 +19,7 @@ Below you may analyze my gathered IT knowledge 🕵🏻, and read some things ab
 ### 💡 General understanding of
 - AI: Python(Developed my Bachelor's Thesis "Get songs on Spotify based on your emotions")
 - OS: POSIX
-- Other technologies: Kafka, Zookeper, Mirror Maker
+- Other technologies: Kafka, MirrorMaker, Zookeper
 
 ## About me 👁️‍🗨️
 ### 📫 Reach me at
