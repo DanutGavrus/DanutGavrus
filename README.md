@@ -4,7 +4,7 @@ Below you may analyze my gathered IT knowledge 🕵🏻, and read some things ab
 
 ## IT Knowledge 📚
 ### 💪 Strengths
-- Multi Module Projects, Architecture Design, Design Patterns: Tech Lead on Android for ~1.5 years(project started by me from scratch)
+- Architecture Design & Design Patterns: Tech Lead on Android for ~1.5 years(2 Multi Module Projects started by me from scratch)
 - Back-end: Java, Kotlin, Python, SQL
 - Mobile: Android - Kotlin
 - Front-end: HTML, CSS, JS, TS, React
