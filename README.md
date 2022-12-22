@@ -7,13 +7,13 @@ Below you may analyze my gathered IT knowledge 🕵🏻, and read some things ab
 - Architecture Design & Design Patterns: Tech Lead on Android for ~1.5 years(2 Multi Module Projects started by me from scratch)
 - Back-end: Java, Kotlin, Python, SQL
 - Mobile: Android - Kotlin
-- Front-end: HTML, CSS, JS, TS, React
+- Front-end: React, HTML, CSS, JS, TS
 - 2D Game Development: Unity - C#
 
 ### 👌 Good at
 - Payment Systems: Worked in a company which develops payment systems for almost 2.5 years
 - Fundamental Algorithms and Data Structures: C & C++
-- Operating Systems: Linux, POSIX(Portable Operating System Interface)
+- Operating Systems: Linux & POSIX(Portable Operating System Interface)
 
 ### 💡 Knows
 - Artificial Intelligence: Python(Developed my Bachelor's Thesis "Get songs on Spotify based on your emotions")
