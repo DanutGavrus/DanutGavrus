@@ -3,7 +3,7 @@ Enjoying programming + trying lots of technologies = me 🤓.
 Below you may analyze my gathered IT knowledge 🕵🏻, and read some things about me 📖.
 
 ## IT Knowledge 📚
-### 💪 Strenghts
+### 💪 Strengths
 - Architecture Design & Design Patterns: Tech Lead on Android for ~1.5 years(project started by me from scratch)
 - Back-end: Java, Kotlin, Python, SQL
 - Mobile: Kotlin - Android
