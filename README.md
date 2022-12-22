@@ -28,7 +28,7 @@ G-mail: danut.gavrus@gmail.com
 
 ### ⚡ Fun facts / Know me better
 I enjoy using Linux more than Windows on my personal laptop 🤷🏻‍♂️  
-I took the first place in the math olympiad, county phase, in both 11th and 12th grades, but my scoring was not high enough to advance to the country phase 😔  
+I took the 1st place in 11th & 12th grades at the math olympiad - county phase, but my scoring was not high enough to advance to the country phase 😔  
 I copied my answers wrong from the scrap paper to the official paper during the simulation of the grid exam at the University of Computer Science in Cluj-Napoca, otherwise I would have been in the first 10 people which would have been accepted as students without having to later on take the admission exam. I got over it, and later on, I entered among the first 1-2% places 😁  
 I was also in the first 1% places for high school's admission with an average entrance grade of 9.92 🤓  
 I contested the grade of 9.85 taken in the baccalaureate's math exam 🫣  
