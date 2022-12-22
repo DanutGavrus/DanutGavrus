@@ -4,22 +4,20 @@ Below you may analyze my gathered IT knowledge 🕵🏻, and read some things ab
 
 ## IT Knowledge 📚
 ### 💪 Strengths
-- Architecture Design & Design Patterns: Tech Lead on Android for ~1.5 years(project started by me from scratch)
+- Multi Module Projects, Architecture Design, Design Patterns: Tech Lead on Android for ~1.5 years(project started by me from scratch)
 - Back-end: Java, Kotlin, Python, SQL
-- Mobile: Kotlin - Android
+- Mobile: Android - Kotlin
 - Front-end: HTML, CSS, JS, TS, React
+- 2D Game Development: Unity - C#
 
-### 👌 Good understanding of
+### 👌 Good at
 - Payment Systems: Worked in a company which develops payment systems for almost 2.5 years
-- Game Development: C# - Unity
 - Fundamental Algorithms and Data Structures: C & C++
-- OS: Linux
-- Other technologies: Docker, RabbitMQ, Heroku
+- Operating Systems: Linux, POSIX(Portable Operating System Interface)
 
-### 💡 General understanding of
-- AI: Python(Developed my Bachelor's Thesis "Get songs on Spotify based on your emotions")
-- OS: POSIX
-- Other technologies: Kafka, MirrorMaker, Zookeper
+### 💡 Knows
+- Artificial Intelligence: Python(Developed my Bachelor's Thesis "Get songs on Spotify based on your emotions")
+- Other technologies: Kafka & MirrorMaker, RabbitMQ & Heroku, Zookeper, Jenkins, Docker
 
 ## About me 👁️‍🗨️
 ### 📫 Reach me at
