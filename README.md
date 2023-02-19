@@ -5,24 +5,24 @@ Below you may analyze my gathered IT knowledge 🕵🏻, and read some things ab
 ## IT Knowledge 📚
 ### 💪 Strengths
 - Architecture Design & Design Patterns: Tech Lead on Android for ~1.5 years(2 Multi Module Projects started by me from scratch)
-- Back-end: Java, Kotlin, Python, SQL
+- Back-end: [Java](https://github.com/DanutGavrus/5-apps-in-Java-with-GUIs), Kotlin, [Python](https://github.com/DanutGavrus/1-app-for-Web-Scalping-using-Selenium-in-Python), SQL
 - Mobile: Android - Kotlin
-- Front-end: React, HTML, CSS, JS, TS
-- 2D Game Development: Unity - C#
+- Front-end: [React](https://github.com/DanutGavrus/1-app-for-a-Live-Chat-using-React-TS-and-Firebase), [HTML, CSS, JS](https://github.com/DanutGavrus/2-old-apps-for-web), TS
+- 2D Game Development: [Unity - C#](https://github.com/DanutGavrus/7-mobile-games-using-CSharp-in-Unity)
 
 ### 👌 Good at
 - Payment Systems: Worked in a company which develops payment systems for almost 2.5 years
-- Fundamental Algorithms and Data Structures: C & C++
-- Operating Systems: Linux & POSIX(Portable Operating System Interface)
+- Fundamental Algorithms and Data Structures: [C & C++](https://github.com/DanutGavrus/9-apps-in-C-about-Fundamental-Algorithms-and-Data-Structures)
+- Operating Systems: Linux & [POSIX](https://github.com/DanutGavrus/3-apps-in-C-for-POSIX)(Portable Operating System Interface)
 
 ### 💡 Knows
-- Artificial Intelligence: Python(Developed my Bachelor's Thesis "Get songs on Spotify based on your emotions")
+- Artificial Intelligence: [Python](https://github.com/DanutGavrus/_bachelor_thesis_Get-songs-on-Spotify-based-on-your-emotions)(Developed my Bachelor's Thesis "Get songs on Spotify based on your emotions")
 - Other technologies: Kafka & MirrorMaker, RabbitMQ & Heroku, Zookeper, Jenkins, Docker, CI/CD
 
 ## About me 👁️‍🗨️
 ### 📫 Reach me at
 LinkedIn & CV: https://www.linkedin.com/in/danut-gavrus/  
-G-mail: danut.gavrus@gmail.com
+Mail: danut.gavrus@gmail.com
 
 ### ⚡ Fun facts / Know me better
 I enjoy using Linux more than Windows on my personal laptop 🤷🏻‍♂️  
