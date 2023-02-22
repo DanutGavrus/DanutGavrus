@@ -7,7 +7,7 @@ Below you may analyze my gathered IT knowledge 🕵🏻, and read some things ab
 - Architecture Design & Design Patterns: Tech Lead on Android for ~1.5 years(2 Multi Module Projects started by me from scratch)
 - Back-end: [Java](https://github.com/DanutGavrus/5-apps-in-Java-with-GUIs), Kotlin, [Python](https://github.com/DanutGavrus/1-app-for-Web-Scalping-using-Selenium-in-Python), SQL
 - Mobile: Android - Kotlin
-- Front-end: [React](https://github.com/DanutGavrus/1-app-for-a-Live-Chat-using-React-TS-and-Firebase), [HTML, CSS, JS](https://github.com/DanutGavrus/2-old-apps-for-web), TS
+- Front-end: [React, TS, Tailwind](https://github.com/DanutGavrus/1-app-for-a-Live-Chat-using-React-TS-Firebase-and-Tailwind) | [HTML, CSS, JS](https://github.com/DanutGavrus/2-old-apps-for-web)
 - 2D Game Development: [Unity - C#](https://github.com/DanutGavrus/7-mobile-games-using-CSharp-in-Unity)
 
 ### 👌 Good at
