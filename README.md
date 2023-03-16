@@ -3,7 +3,7 @@ Currently, I'm in the search for a React job. Here is a recent project which I h
 * Deployed at: https://live-chat-bde08.web.app
 * Repo with Images: https://github.com/DanutGavrus/1-app-for-a-Live-Chat-using-React-TS-Firebase-and-Tailwind
 
-`All my Repositories contain significant Images: ` https://github.com/DanutGavrus?tab=repositories
+`All my Repositories contain significant Images: `https://github.com/DanutGavrus?tab=repositories
 
 ## IT Knowledge 📚
 ### 💪 Strengths
@@ -20,7 +20,8 @@ Currently, I'm in the search for a React job. Here is a recent project which I h
 
 ### 💡 Knows
 - Artificial Intelligence: [Python](https://github.com/DanutGavrus/_bachelor_thesis_Get-songs-on-Spotify-based-on-your-emotions). Developed my Bachelor's Thesis "[Get songs on Spotify based on your emotions](https://github.com/DanutGavrus/_bachelor_thesis_Get-songs-on-Spotify-based-on-your-emotions)".
-- Other technologies: Kafka & MirrorMaker, RabbitMQ & Heroku, Zookeper, Jenkins, Docker, CI/CD.
+- Cloud: Firebase, Heroku, RabbitMQ, Jenkins, CI/CD, Git.
+- Others: MirrorMaker, Zookeper, Docker, Kafka.
 
 ## About me 👁️‍🗨️
 ### 📫 Reach me at
