@@ -1,6 +1,6 @@
 # Hi, I'm Danut 👋
 Currently, I'm in the search for a React job. Here is a recent project which I have developed using React TS, Firebase & Tailwind:
-* Deployed at: https://live-chat-bde08.web.app
+* Deployed at: https://live-chat-bde08.firebaseapp.com
 * Repo with Images: https://github.com/DanutGavrus/1-app-for-a-Live-Chat-using-React-TS-Firebase-and-Tailwind
 
 `All my Repositories contain significant Images: `https://github.com/DanutGavrus?tab=repositories
