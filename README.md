@@ -30,10 +30,10 @@ Mail: [danut.gavrus@gmail.com](mailto:danut.gavrus@gmail.com)
 
 ### ⚡ Fun facts / Know me better
 - I enjoy using Linux more than Windows on my personal laptop.  
-- I like working on personal projects in my spare time. Once I have created a big speaker of ~120cm length and ~50cm height from scratch, and it stays connected to my TV using Bluetooth for some years now.  
 - At one of the previous companies for which I've worked I've been chosen as an Employee's Representative where I've started new initiatives such as: donating old hardware, monthly team buildings, employee's quarterly budget for extra activities, etc.  
-- I took the 1st place in 12th grade and the 2nd place in 11th grade at the math olympiad - county phase, and a mention in the 12th grade at a math competition "Traian Lalescu" - intercounty phase.  
 - I want to be part of the people who make the community better, so I tried being part of a political party once, and actually went with a basketball court project to the city's mayor. It was implemented years ago in my hometown, it's about 14m length and 7.5m wide, and it's still freely used in the central park.  
+- I like working on personal projects in my spare time. Once I have created a big speaker of ~120cm length and ~50cm height from scratch, and it stays connected to my TV using Bluetooth for some years now.  
+- I took the 1st place in 12th grade and the 2nd place in 11th grade at the math olympiad - county phase, and a mention in the 12th grade at a math competition "Traian Lalescu" - intercounty phase.
 
 📷 Here are some photos of the speaker and the basketball court:
 | Speaker with leds off  | Speaker with leds on | Basketball court |
