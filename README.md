@@ -38,4 +38,4 @@ Mail: [danut.gavrus@gmail.com](mailto:danut.gavrus@gmail.com)
 📷 Here are some photos of the basketball court and the speaker:
 | Basketball court | Speaker with leds off  | Speaker with leds on |
 | ------------- | ------------- | ------------- |
-| <img src="https://github.com/DanutGavrus/Photos/blob/master/10.%20Basketball%20court.png" width="300"> | <img src="https://github.com/DanutGavrus/Photos/blob/master/2.%20Photo%20Of%20Speaker.jpg" width="375"> | <img src="https://github.com/DanutGavrus/Photos/blob/master/1.%20Photo%20With%20Leds%20On.jpg" width="400">
+| <img src="https://user-images.githubusercontent.com/56603839/226368235-6684955b-5061-42e8-b874-36802d75b767.png" width="300"> | <img src="https://user-images.githubusercontent.com/56603839/226368305-6f7c8bad-d7ef-4637-9a59-3dc045809172.png" width="375"> | <img src="https://user-images.githubusercontent.com/56603839/226368358-58c7da4f-cc46-4b55-8581-64f12878c730.png" width="400">
