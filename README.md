@@ -8,9 +8,9 @@ Currently, I'm in the search for a React job. Here is a recent project which I h
 ## IT Knowledge 📚
 ### 💪 Strengths
 - Architecture Design & Design Patterns: Tech Lead on Android for ~1.5 years. 2 Multi Module Projects started by me from scratch.
-- Back-end: [Java](https://github.com/DanutGavrus/5-apps-in-Java-with-GUIs), Kotlin, [Python](https://github.com/DanutGavrus/1-app-for-Web-Scalping-using-Selenium-in-Python), SQL & NoSQL
-- Mobile: Android - Kotlin
 - Front-end: [React, TS, Tailwind](https://github.com/DanutGavrus/1-app-for-a-Live-Chat-using-React-TS-Firebase-and-Tailwind) | [HTML, CSS, JS](https://github.com/DanutGavrus/2-old-apps-for-web)
+- Back-end: [Java](https://github.com/DanutGavrus/5-apps-in-Java-with-GUIs), Kotlin, Python, SQL & NoSQL
+- Mobile: Android - Kotlin
 - 2D Game Development: [Unity - C#](https://github.com/DanutGavrus/7-mobile-games-using-CSharp-in-Unity)
 
 ### 👌 Good at
@@ -20,8 +20,8 @@ Currently, I'm in the search for a React job. Here is a recent project which I h
 
 ### 💡 Knows
 - Artificial Intelligence: [Python](https://github.com/DanutGavrus/_bachelor_thesis_Get-songs-on-Spotify-based-on-your-emotions). Developed my Bachelor's Thesis "[Get songs on Spotify based on your emotions](https://github.com/DanutGavrus/_bachelor_thesis_Get-songs-on-Spotify-based-on-your-emotions)".
-- Cloud: Firebase, Heroku, RabbitMQ, Jenkins, CI/CD, Git.
-- Others: MirrorMaker, Zookeper, Docker, Kafka.
+- Cloud: Firebase, Heroku, RabbitMQ, Jenkins, [CI/CD](https://github.com/DanutGavrus/1-app-for-a-Live-Chat-using-React-TS-Firebase-and-Tailwind/actions), Git.
+- Others: [Selenium](https://github.com/DanutGavrus/1-app-for-Web-Scalping-using-Selenium-in-Python), Zookeper, Docker, Kafka.
 
 ## About me 👁️‍🗨️
 ### 📫 Reach me at
