@@ -1,25 +1,26 @@
 # Hi, I'm Danut 👋
-Currently, I'm in the search for a React job. Here is a recent project which I have developed using React TS, Firebase & Tailwind:
+`Highlight:` Real Time Web Messaging Application
 * Deployed at: https://live-chat-bde08.firebaseapp.com
+* Technologies: React TS, Firebase & Tailwind
 * Repo with Images: https://github.com/DanutGavrus/1-app-for-a-Live-Chat-using-React-TS-Firebase-and-Tailwind
 
-`All my Repositories contain significant Images: `https://github.com/DanutGavrus?tab=repositories
+`All my Repositories contain significant Images:` https://github.com/DanutGavrus?tab=repositories
 
 ## IT Knowledge 📚
 ### 💪 Strengths
 - Architecture Design & Design Patterns: Tech Lead on Android for ~1.5 years. 2 Multi Module Projects started by me from scratch.
-- Front-end: [React, TS, Tailwind](https://github.com/DanutGavrus/1-app-for-a-Live-Chat-using-React-TS-Firebase-and-Tailwind) | [HTML, CSS, JS](https://github.com/DanutGavrus/2-old-apps-for-web)
-- Back-end: [Java](https://github.com/DanutGavrus/5-apps-in-Java-with-GUIs), Kotlin, Python, SQL & NoSQL
-- Mobile: Android - Kotlin
-- 2D Game Development: [Unity - C#](https://github.com/DanutGavrus/7-mobile-games-using-CSharp-in-Unity)
+- Front-end: [React, TS, Tailwind](https://github.com/DanutGavrus/1-app-for-a-Live-Chat-using-React-TS-Firebase-and-Tailwind) | [HTML, CSS, JS](https://github.com/DanutGavrus/2-old-apps-for-web).
+- Mobile: Android - Kotlin.
+- 2D Game Development: [Unity - C#](https://github.com/DanutGavrus/7-mobile-games-using-CSharp-in-Unity).
+- Back-end: [Java](https://github.com/DanutGavrus/5-apps-in-Java-with-GUIs), Kotlin, Python, SQL & NoSQL.
 
 ### 👌 Good at
 - Payment Systems: Worked in a company which develops payment systems for almost 2.5 years.
-- Fundamental Algorithms and Data Structures: [C & C++](https://github.com/DanutGavrus/9-apps-in-C-about-Fundamental-Algorithms-and-Data-Structures)
-- Operating Systems: [Linux & POSIX](https://github.com/DanutGavrus/3-apps-in-C-for-POSIX)
+- Fundamental Algorithms and Data Structures: [C & C++](https://github.com/DanutGavrus/9-apps-in-C-about-Fundamental-Algorithms-and-Data-Structures).
+- Operating Systems: [Linux & POSIX](https://github.com/DanutGavrus/3-apps-in-C-for-POSIX).
 
 ### 💡 Knows
-- Artificial Intelligence: [Python](https://github.com/DanutGavrus/_bachelor_thesis_Get-songs-on-Spotify-based-on-your-emotions). Developed my Bachelor's Thesis "[Get songs on Spotify based on your emotions](https://github.com/DanutGavrus/_bachelor_thesis_Get-songs-on-Spotify-based-on-your-emotions)".
+- Artificial Intelligence: [Python](https://github.com/DanutGavrus/_bachelor_thesis_Get-songs-on-Spotify-based-on-your-emotions). Developed my Bachelor's Thesis "[Get songs on Spotify based on your facial emotions](https://github.com/DanutGavrus/_bachelor_thesis_Get-songs-on-Spotify-based-on-your-facial-emotions)".
 - Cloud: Firebase, Heroku, RabbitMQ, Jenkins, [CI/CD](https://github.com/DanutGavrus/1-app-for-a-Live-Chat-using-React-TS-Firebase-and-Tailwind/actions), Git.
 - Others: [Selenium](https://github.com/DanutGavrus/1-app-for-Web-Scalping-using-Selenium-in-Python), Zookeper, Docker, Kafka.
 
