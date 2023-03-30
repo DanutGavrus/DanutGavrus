@@ -30,11 +30,11 @@ LinkedIn & CV: https://www.linkedin.com/in/danut-gavrus
 Mail: [danut.gavrus@gmail.com](mailto:danut.gavrus@gmail.com)
 
 ### ⚡ Fun facts / Know me better
-- At one of the previous companies for which I've worked I've been chosen as an Employee's Representative where I've started new initiatives such as: donating old hardware, monthly team buildings, employee's quarterly budget for extra activities, etc.  
-- I want to be part of the people who make the community better, so I tried being part of a political party once, and actually went with a basketball court project to the city's mayor. It was implemented years ago in my hometown, it's about 14m length and 7.5m wide, and it's still freely used in the central park.  
+- At one of the previous companies for which I've worked, I've been chosen as an Employee's Representative where I've started new initiatives such as: donating old hardware, monthly team buildings, employee's quarterly budget for extra activities, etc.  
+- I want to be part of the people who make the community better, so I tried being part of a political party once, and actually went with a basketball court project to the city's mayor. It was implemented years ago in my hometown, it's about 14m long and 7.5m wide, and it's still freely used in the central park.  
 - I enjoy using Linux(Fedora as of now) on my personal laptop.  
-- I like being creative and working on personal projects(IT and non IT related) in my spare time. I have made a big speaker of ~120cm length and ~50cm height from scratch, and it stays connected to my TV using Bluetooth for some years now.  
-- I took the 1st place in 12th grade and the 2nd place in 11th grade at the math olympiad - county phase, and a mention in the 12th grade at a math competition "Traian Lalescu" - intercounty phase.
+- I like being creative and working on personal projects(IT and non IT related) in my spare time. I have made a big speaker of ~120cm length and ~50cm height from scratch, and it has been staying connected to my TV using Bluetooth for some years now.  
+- I took 1st place in 12th grade and the place in 11th grade at the math olympiad - county phase, and a mention in 12th grade at a math competition "Traian Lalescu" - intercounty phase.
 
 📷 Here are some photos of the basketball court and the speaker:
 | Basketball court | Speaker with leds off  | Speaker with leds on |
