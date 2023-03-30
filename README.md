@@ -1,5 +1,5 @@
 # Hi, I'm Danut 👋
-`Highlight with a recent project:` Real Time Web Messaging Application
+`Highlight of a recent project:` Real Time Web Messaging Application
 * Deployed at: https://live-chat-bde08.firebaseapp.com
 * Technologies: React TS, Firebase & Tailwind
 * Repo with Images: https://github.com/DanutGavrus/1-app-for-a-Live-Chat-using-React-TS-Firebase-and-Tailwind
