@@ -1,5 +1,5 @@
 # Hi, I'm Danut 👋
-`Highlight:` Real Time Web Messaging Application
+`Highlight with a recent project:` Real Time Web Messaging Application
 * Deployed at: https://live-chat-bde08.firebaseapp.com
 * Technologies: React TS, Firebase & Tailwind
 * Repo with Images: https://github.com/DanutGavrus/1-app-for-a-Live-Chat-using-React-TS-Firebase-and-Tailwind
@@ -8,11 +8,11 @@
 
 ## IT Knowledge 📚
 ### 💪 Strengths
-- Architecture Design & Design Patterns: Tech Lead on Android for ~1.5 years. 2 Multi Module Projects started by me from scratch.
-- Front-end: [React, TS, Tailwind](https://github.com/DanutGavrus/1-app-for-a-Live-Chat-using-React-TS-Firebase-and-Tailwind) | [HTML, CSS, JS](https://github.com/DanutGavrus/2-old-apps-for-web).
-- Mobile: Android - Kotlin.
-- 2D Game Development: [Unity - C#](https://github.com/DanutGavrus/7-mobile-games-using-CSharp-in-Unity).
-- Back-end: [Java](https://github.com/DanutGavrus/5-apps-in-Java-with-GUIs), Kotlin, Python, SQL & NoSQL.
+- Architecture Design & Design Patterns: Tech Lead on Mobile for ~1.5 years. 2 Multi Module Projects started by me from scratch.
+- Front-End: [React, TS, Tailwind](https://github.com/DanutGavrus/1-app-for-a-Live-Chat-using-React-TS-Firebase-and-Tailwind) | [HTML, CSS, JS](https://github.com/DanutGavrus/2-old-apps-for-web).
+- Mobile: Android - Kotlin, Java.
+- 2D Game Development: [Unity - C#, Java](https://github.com/DanutGavrus/7-mobile-games-using-CSharp-in-Unity).
+- Back-End: [Java](https://github.com/DanutGavrus/5-apps-in-Java-with-GUIs), Kotlin, Python, SQL & NoSQL.
 
 ### 👌 Good at
 - Payment Systems: Worked in a company which develops payment systems for almost 2.5 years.
