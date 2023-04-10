@@ -30,7 +30,7 @@ LinkedIn & CV: https://www.linkedin.com/in/danut-gavrus
 Mail: [danut.gavrus@gvrvision.com](mailto:danut.gavrus@gvrvision.com)
 
 ### ⚡ Fun facts / Know me better
-- At one of the previous companies for which I've worked, I've been chosen as an Employee's Representative where I've started new initiatives such as: donating old hardware, monthly team buildings, employee's quarterly budget for extra activities, etc.  
+- I've been chosen as one of the 3 Employee Representatives in the previous company, and I've started new initiatives such as: donating old hardware, monthly team buildings, employee's quarterly budget for extra activities, etc.
 - I want to be part of the people who make the community better, so I tried being part of a political party once, and actually went with a Basketball Court project to my city's mayor. It was implemented in 2015, it's about 14m long and 7.5m wide, and it's still freely used in the central park.  
 - I enjoy using Linux(Fedora as of now) on my personal laptop.  
 - I like being creative and working on personal projects(IT and non IT related) in my spare time. I have made a Stereo Speaker of ~120cm length and ~50cm height from scratch, and it has been staying connected to my TV using Bluetooth for some years now.  
