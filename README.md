@@ -2,7 +2,7 @@
 `Highlight of a recent project:` Real Time Web Messaging Application
 * Deployed at: https://live-chat-bde08.firebaseapp.com
 * Technologies: React TS, Firebase & Tailwind
-* Repo with Images: https://github.com/DanutGavrus/1-app-for-a-Live-Chat-using-React-TS-Firebase-and-Tailwind
+* Repo with Images: https://github.com/DanutGavrus/1-Real-Time-Chat-with-Categories-using-React-TS-Firebase-and-Tailwind
 
 `All my Repositories contain significant Images:` https://github.com/DanutGavrus?tab=repositories
 
