@@ -12,7 +12,7 @@
 - Web: [React, TS, Tailwind](https://github.com/DanutGavrus/Real-Time-Chat-with-Categories-using-React-TS-Firebase-and-Tailwind) | [HTML, CSS, JS](https://github.com/DanutGavrus/2-old-websites).
 - Mobile: Android - Kotlin, Java.
 - 2D Mobile Games: [Unity - C#](https://github.com/DanutGavrus/7-2D-Mobile-Games-using-CSharp-in-Unity).
-- Back-End: [Java]([https://github.com/DanutGavrus/5-apps-in-Java-with-GUIs](https://github.com/DanutGavrus/5-Java-apps-with-GUIs)), Kotlin, Python, SQL & NoSQL.
+- Back-End: [Java]([https://github.com/DanutGavrus/5-apps-in-Java-with-GUIs](https://github.com/DanutGavrus/5-Java-apps-with-GUIs)), Kotlin, SQL & NoSQL, [Python - Flask](https://github.com/DanutGavrus/Get-songs-on-Spotify-based-on-your-facial-emotions).
 
 ### 👌 Good at
 - Payment Systems: Worked for a company that develops payment systems for almost 2.5 years.
