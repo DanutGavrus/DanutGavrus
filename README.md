@@ -4,7 +4,7 @@
 * Technologies: React TS, Firebase & Tailwind
 * Repo with Images: https://github.com/DanutGavrus/1-Real-Time-Chat-with-Categories-using-React-TS-Firebase-and-Tailwind
 
-`All my Repositories contain significant Images:` https://github.com/DanutGavrus?tab=repositories
+`All my repositories contain Significant Images:` https://github.com/DanutGavrus?tab=repositories
 
 ## IT Knowledge 📚
 ### 💪 Strengths
