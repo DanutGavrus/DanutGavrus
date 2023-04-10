@@ -22,7 +22,8 @@
 ### 💡 Knows
 - Artificial Intelligence: [Python](https://github.com/DanutGavrus/Get-songs-on-Spotify-based-on-your-facial-emotions). Developed my Bachelor's Thesis "[Get songs on Spotify based on your facial emotions](https://github.com/DanutGavrus/Get-songs-on-Spotify-based-on-your-facial-emotions)".
 - Cloud: Firebase, Heroku, RabbitMQ, Jenkins, [CI/CD](https://github.com/DanutGavrus/Real-Time-Chat-with-Categories-using-React-TS-Firebase-and-Tailwind/actions), Git.
-- Others: Zookeper, [Selenium](https://github.com/DanutGavrus/Web-Scalping-using-Selenium-in-Python), Docker, Kafka.
+- Web Testing: [Selenium](https://github.com/DanutGavrus/Web-Scalping-using-Selenium-in-Python).
+- Others: Kafka, Docker, Zookeper.
 
 ## About me 👁️‍🗨️
 ### 📫 Reach me at
