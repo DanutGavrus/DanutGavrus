@@ -1,8 +1,8 @@
 # Hi, I'm Danut 👋 
 `Highlight of a recent project:` Real Time Web Messaging Application
 * Deployed at: https://live-chat-bde08.firebaseapp.com
-* Technologies: React TS, Firebase & Tailwind
-* Repo with Images: https://github.com/DanutGavrus/Real-Time-Chat-with-Categories-using-React-TS-Firebase-and-Tailwind
+* Technologies: React TS, Firebase & Tailwind CSS
+* Repo with Images: https://github.com/DanutGavrus/Real-Time-Chat-with-Categories-using-React-TS-Firebase-and-Tailwind-CSS
 
 `All my repositories contain Significant Images:` https://github.com/DanutGavrus?tab=repositories
 
@@ -11,18 +11,18 @@
 - Architecture Design & Design Patterns: Tech Lead on Mobile for ~1.5 years. 2 Multi Module Projects started by me from scratch.
 - Web: [React, TS, Tailwind](https://github.com/DanutGavrus/Real-Time-Chat-with-Categories-using-React-TS-Firebase-and-Tailwind) | [HTML, CSS, JS](https://github.com/DanutGavrus/2-old-websites).
 - Mobile: Android - Kotlin, Java.
+- Back-End: [Java](https://github.com/DanutGavrus/5-Java-apps-with-GUIs), Kotlin, SQL & NoSQL, [Python - Flask](https://github.com/DanutGavrus/Get-songs-on-Spotify-based-on-your-facial-emotions).
 - 2D Mobile Games: [Unity - C#](https://github.com/DanutGavrus/7-2D-Mobile-Games-using-CSharp-in-Unity).
-- Back-End: [Java]([https://github.com/DanutGavrus/5-apps-in-Java-with-GUIs](https://github.com/DanutGavrus/5-Java-apps-with-GUIs)), Kotlin, SQL & NoSQL, [Python - Flask](https://github.com/DanutGavrus/Get-songs-on-Spotify-based-on-your-facial-emotions).
 
 ### 👌 Good at
-- Payment Systems: Worked for a company that develops payment systems for almost 2.5 years.
 - Fundamental Algorithms and Data Structures: [C & C++](https://github.com/DanutGavrus/9-C-apps-about-Fundamental-Algorithms-and-Data-Structures).
-- Operating Systems: [Linux & POSIX](https://github.com/DanutGavrus/3-C-apps-about-POSIX).
+- Web Testing: [Selenium](https://github.com/DanutGavrus/Web-Scalping-using-Selenium-in-Python).
+- Cloud: [CI/CD](https://github.com/DanutGavrus/Real-Time-Chat-with-Categories-using-React-TS-Firebase-and-Tailwind/actions), Git.
 
 ### 💡 Knows
-- Artificial Intelligence: [Python](https://github.com/DanutGavrus/Get-songs-on-Spotify-based-on-your-facial-emotions). Developed my Bachelor's Thesis "[Get songs on Spotify based on your facial emotions](https://github.com/DanutGavrus/Get-songs-on-Spotify-based-on-your-facial-emotions)".
-- Cloud: Firebase, Heroku, RabbitMQ, Jenkins, [CI/CD](https://github.com/DanutGavrus/Real-Time-Chat-with-Categories-using-React-TS-Firebase-and-Tailwind/actions), Git.
-- Web Testing: [Selenium](https://github.com/DanutGavrus/Web-Scalping-using-Selenium-in-Python).
+- Artificial Intelligence: Python. Developed my Bachelor's Thesis "[Get songs on Spotify based on your facial emotions](https://github.com/DanutGavrus/Get-songs-on-Spotify-based-on-your-facial-emotions)".
+- Operating Systems: [Linux & POSIX](https://github.com/DanutGavrus/3-C-apps-about-POSIX).
+- Cloud: RabbitMQ, Firebase, Jenkins, Heroku.
 - Others: Kafka, Docker, ZooKeeper.
 
 ## About me 👁️‍🗨️
