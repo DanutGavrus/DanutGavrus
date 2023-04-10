@@ -2,27 +2,27 @@
 `Highlight of a recent project:` Real Time Web Messaging Application
 * Deployed at: https://live-chat-bde08.firebaseapp.com
 * Technologies: React TS, Firebase & Tailwind
-* Repo with Images: https://github.com/DanutGavrus/1-Real-Time-Chat-with-Categories-using-React-TS-Firebase-and-Tailwind
+* Repo with Images: https://github.com/DanutGavrus/Real-Time-Chat-with-Categories-using-React-TS-Firebase-and-Tailwind
 
 `All my repositories contain Significant Images:` https://github.com/DanutGavrus?tab=repositories
 
 ## IT Knowledge 📚
 ### 💪 Strengths
 - Architecture Design & Design Patterns: Tech Lead on Mobile for ~1.5 years. 2 Multi Module Projects started by me from scratch.
-- Web: [React, TS, Tailwind](https://github.com/DanutGavrus/1-Real-Time-Chat-with-Categories-using-React-TS-Firebase-and-Tailwind) | [HTML, CSS, JS](https://github.com/DanutGavrus/2-old-apps-for-web).
+- Web: [React, TS, Tailwind](https://github.com/DanutGavrus/Real-Time-Chat-with-Categories-using-React-TS-Firebase-and-Tailwind) | [HTML, CSS, JS](https://github.com/DanutGavrus/2-old-websites).
 - Mobile: Android - Kotlin, Java.
-- 2D Mobile Games: [Unity - C#](https://github.com/DanutGavrus/7-mobile-games-using-CSharp-in-Unity).
-- Back-End: [Java](https://github.com/DanutGavrus/5-apps-in-Java-with-GUIs), Kotlin, Python, SQL & NoSQL.
+- 2D Mobile Games: [Unity - C#](https://github.com/DanutGavrus/7-2D-Mobile-Games-using-CSharp-in-Unity).
+- Back-End: [Java]([https://github.com/DanutGavrus/5-apps-in-Java-with-GUIs](https://github.com/DanutGavrus/5-Java-apps-with-GUIs)), Kotlin, Python, SQL & NoSQL.
 
 ### 👌 Good at
 - Payment Systems: Worked for a company that develops payment systems for almost 2.5 years.
-- Fundamental Algorithms and Data Structures: [C & C++](https://github.com/DanutGavrus/9-apps-in-C-about-Fundamental-Algorithms-and-Data-Structures).
-- Operating Systems: [Linux & POSIX](https://github.com/DanutGavrus/3-apps-in-C-for-POSIX).
+- Fundamental Algorithms and Data Structures: [C & C++](https://github.com/DanutGavrus/9-C-apps-about-Fundamental-Algorithms-and-Data-Structures).
+- Operating Systems: [Linux & POSIX](https://github.com/DanutGavrus/3-C-apps-about-POSIX).
 
 ### 💡 Knows
-- Artificial Intelligence: [Python](https://github.com/DanutGavrus/_bachelor_thesis_Get-songs-on-Spotify-based-on-your-emotions). Developed my Bachelor's Thesis "[Get songs on Spotify based on your facial emotions](https://github.com/DanutGavrus/_bachelor_thesis_Get-songs-on-Spotify-based-on-your-facial-emotions)".
-- Cloud: Firebase, Heroku, RabbitMQ, Jenkins, [CI/CD](https://github.com/DanutGavrus/1-app-for-a-Live-Chat-using-React-TS-Firebase-and-Tailwind/actions), Git.
-- Others: Zookeper, [Selenium](https://github.com/DanutGavrus/1-app-for-Web-Scalping-using-Selenium-in-Python), Docker, Kafka.
+- Artificial Intelligence: [Python](https://github.com/DanutGavrus/Get-songs-on-Spotify-based-on-your-facial-emotions). Developed my Bachelor's Thesis "[Get songs on Spotify based on your facial emotions](https://github.com/DanutGavrus/Get-songs-on-Spotify-based-on-your-facial-emotions)".
+- Cloud: Firebase, Heroku, RabbitMQ, Jenkins, [CI/CD](https://github.com/DanutGavrus/Real-Time-Chat-with-Categories-using-React-TS-Firebase-and-Tailwind/actions), Git.
+- Others: Zookeper, [Selenium](https://github.com/DanutGavrus/Web-Scalping-using-Selenium-in-Python), Docker, Kafka.
 
 ## About me 👁️‍🗨️
 ### 📫 Reach me at
