@@ -1,10 +1,10 @@
 # Hi, I'm Danut 👋 
-`Highlight of a recent project:` Real Time Web Messaging Application
-* Deployed at: https://live-chat-bde08.firebaseapp.com
-* Technologies: React TS, Firebase & Tailwind CSS
-* Repo with Images: https://github.com/DanutGavrus/Real-Time-Chat-with-Categories-using-React-TS-Firebase-and-Tailwind-CSS
+`Highlight of a recent project:` Real Time Web Messaging Application.
+* Deployed at: https://live-chat-bde08.firebaseapp.com.
+* Technologies: React TS, Firebase & Tailwind CSS.
+* Repo with Images: https://github.com/DanutGavrus/Real-Time-Chat-with-Categories-using-React-TS-Firebase-and-Tailwind-CSS.
 
-`All my repositories contain Significant Images:` https://github.com/DanutGavrus?tab=repositories
+`All my repositories contain Significant Images:` https://github.com/DanutGavrus?tab=repositories.
 
 ## IT Knowledge 📚
 ### 💪 Strengths
@@ -27,8 +27,8 @@
 
 ## About me 👁️‍🗨️
 ### 📫 Reach me at
-LinkedIn & CV: https://www.linkedin.com/in/danut-gavrus  
-Mail: [danut.gavrus@gvrvision.com](mailto:danut.gavrus@gvrvision.com)
+LinkedIn & CV: https://www.linkedin.com/in/danut-gavrus.  
+Mail: [danut.gavrus@gvrvision.com](mailto:danut.gavrus@gvrvision.com).
 
 ### ⚡ Fun facts / Know me better
 - I've been chosen as one of the 3 Employee Representatives in the previous company, and I've started new initiatives such as: donating old hardware, monthly team buildings, employee's quarterly budget for extra activities, etc.
