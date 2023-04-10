@@ -20,7 +20,7 @@
 - Cloud: [CI/CD](https://github.com/DanutGavrus/Real-Time-Chat-with-Categories-using-React-TS-Firebase-and-Tailwind/actions), Git.
 
 ### 💡 Knows
-- Artificial Intelligence: Python. Developed my Bachelor's Thesis "[Get songs on Spotify based on your facial emotions](https://github.com/DanutGavrus/Get-songs-on-Spotify-based-on-your-facial-emotions)".
+- Artificial Intelligence: Python - Developed my Bachelor's Thesis "[Get songs on Spotify based on your facial emotions](https://github.com/DanutGavrus/Get-songs-on-Spotify-based-on-your-facial-emotions)".
 - Operating Systems: [Linux & POSIX](https://github.com/DanutGavrus/3-C-apps-about-POSIX).
 - Cloud: RabbitMQ, Firebase, Jenkins, Heroku.
 - Others: Kafka, Docker, ZooKeeper.
