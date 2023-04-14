@@ -10,7 +10,7 @@
 ### 💪 Strengths
 - Architectural & Design Patterns: Tech Lead on Mobile for ~1.5 years. 2 Multi Module Projects started by me from scratch.
 - Front-End: [React, TS, Tailwind](https://github.com/DanutGavrus/Real-Time-Web-Messaging-using-React-TS-Firebase-and-Tailwind-CSS) | [HTML, CSS, JS](https://github.com/DanutGavrus/2-old-websites).
-- Mobile: Android - Kotlin, Java.
+- Mobile Apps: Android - Kotlin, Java.
 - Back-End: OOP, [Java](https://github.com/DanutGavrus/5-Java-apps-with-GUIs), Kotlin, Spring Boot, SQL & NoSQL, [Python - Flask](https://github.com/DanutGavrus/Get-songs-on-Spotify-based-on-your-facial-emotions).
 - 2D Mobile Games: [Unity - C#](https://github.com/DanutGavrus/7-2D-Mobile-Games-using-CSharp-in-Unity).
 
