@@ -1,4 +1,4 @@
-# Hi, I'm Danut 👋 
+# Hi, I'm Danut 👋
 `A recent project:` Real Time Web Messaging Application.
 * Deployed at: https://live-chat-bde08.firebaseapp.com.
 * Technologies used: React TS, Firebase & Tailwind CSS.
