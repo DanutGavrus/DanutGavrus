@@ -2,14 +2,14 @@
 `A recent project:` Real Time Web Messaging Application.
 * Deployed at: https://live-chat-bde08.firebaseapp.com.
 * Technologies used: React TS, Firebase & Tailwind CSS.
-* Repo with Images: https://github.com/DanutGavrus/Real-Time-Chat-with-Categories-using-React-TS-Firebase-and-Tailwind-CSS.
+* Repo with Images: https://github.com/DanutGavrus/Real-Time-Web-Messaging-using-React-TS-Firebase-and-Tailwind-CSS.
 
 `All my repositories contain Significant Images:` https://github.com/DanutGavrus?tab=repositories.
 
 ## IT Knowledge 📚
 ### 💪 Strengths
 - Architectural & Design Patterns: Tech Lead on Mobile for ~1.5 years. 2 Multi Module Projects started by me from scratch.
-- Front-End: [React, TS, Tailwind](https://github.com/DanutGavrus/Real-Time-Chat-with-Categories-using-React-TS-Firebase-and-Tailwind) | [HTML, CSS, JS](https://github.com/DanutGavrus/2-old-websites).
+- Front-End: [React, TS, Tailwind](https://github.com/DanutGavrus/Real-Time-Web-Messaging-using-React-TS-Firebase-and-Tailwind) | [HTML, CSS, JS](https://github.com/DanutGavrus/2-old-websites).
 - Mobile: Android - Kotlin, Java.
 - Back-End: OOP, [Java](https://github.com/DanutGavrus/5-Java-apps-with-GUIs), Kotlin, Spring Boot, SQL & NoSQL, [Python - Flask](https://github.com/DanutGavrus/Get-songs-on-Spotify-based-on-your-facial-emotions).
 - 2D Mobile Games: [Unity - C#](https://github.com/DanutGavrus/7-2D-Mobile-Games-using-CSharp-in-Unity).
@@ -17,7 +17,7 @@
 ### 👌 Good at
 - Fundamental Algorithms and Data Structures: [C & C++](https://github.com/DanutGavrus/9-C-apps-about-Fundamental-Algorithms-and-Data-Structures).
 - Web Testing: [Selenium](https://github.com/DanutGavrus/Web-Scalping-using-Selenium-in-Python).
-- Cloud: [CI/CD](https://github.com/DanutGavrus/Real-Time-Chat-with-Categories-using-React-TS-Firebase-and-Tailwind/actions), Git.
+- Cloud: [CI/CD](https://github.com/DanutGavrus/Real-Time-Web-Messaging-using-React-TS-Firebase-and-Tailwind/actions), Git.
 
 ### 💡 Knows
 - Artificial Intelligence: Python - developed my Bachelor's Thesis "[Get songs on Spotify based on your facial emotions](https://github.com/DanutGavrus/Get-songs-on-Spotify-based-on-your-facial-emotions)".
