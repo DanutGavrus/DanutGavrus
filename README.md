@@ -28,7 +28,7 @@
 ## About me 👁️‍🗨️
 ### 📫 Reach me at
 LinkedIn & CV: https://www.linkedin.com/in/danut-gavrus.  
-Mail: [danut.gavrus@gvrvision.com](mailto:danut.gavrus@gvrvision.com).
+Mail: [danut.gavrus@gmail.com](mailto:danut.gavrus@gmail.com).
 
 ### ⚡ Fun facts / Know me better
 - I've been chosen as one of the 3 Employee Representatives in the previous company, and I've started new initiatives such as: donating old hardware, monthly team buildings, employee's quarterly budget for extra activities, etc.
