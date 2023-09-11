@@ -8,19 +8,20 @@
 
 ## IT Knowledge 📚
 ### 💪 Strengths
-- Architectural & Design Patterns: Former Tech Lead on Mobile. 2 Multi Module Projects started by me from scratch.
-- Front-End: [React, TS, Tailwind](https://github.com/DanutGavrus/Real-Time-Web-Messaging-using-React-TS-Firebase-and-Tailwind-CSS) | [HTML, CSS, JS](https://github.com/DanutGavrus/2-old-websites).
-- Mobile Apps: Android - Kotlin, Java.
+- Former Tech Lead on Mobile for 2 years. 2 Multi Module Projects started by me from scratch.
+- Android: Kotlin, Java.
+- Cross-Platform: React Native.
+- Web: [React, TS, Tailwind](https://github.com/DanutGavrus/Real-Time-Web-Messaging-using-React-TS-Firebase-and-Tailwind-CSS) | [HTML, CSS, JS](https://github.com/DanutGavrus/2-old-websites).
 - Back-End: OOP, [Java](https://github.com/DanutGavrus/5-Java-apps-with-GUIs), Kotlin, Spring Boot, SQL & NoSQL, [Python - Flask](https://github.com/DanutGavrus/Get-songs-on-Spotify-based-on-your-facial-emotions).
 - 2D Mobile Games: [Unity - C#](https://github.com/DanutGavrus/7-2D-Mobile-Games-using-CSharp-in-Unity).
 
 ### 👌 Good at
 - Fundamental Algorithms and Data Structures: [C & C++](https://github.com/DanutGavrus/9-C-apps-about-Fundamental-Algorithms-and-Data-Structures).
-- Web Testing: [Selenium](https://github.com/DanutGavrus/Web-Scalping-using-Selenium-in-Python).
+- Web Automation: [Selenium](https://github.com/DanutGavrus/Web-Scalping-using-Selenium-in-Python).
 - Cloud: [CI/CD](https://github.com/DanutGavrus/Real-Time-Web-Messaging-using-React-TS-Firebase-and-Tailwind-CSS/actions), Git.
 
 ### 💡 Knows
-- Artificial Intelligence: Python - developed my Bachelor's Thesis "[Get songs on Spotify based on your facial emotions](https://github.com/DanutGavrus/Get-songs-on-Spotify-based-on-your-facial-emotions)".
+- Artificial Intelligence: Python - Bachelor's Thesis "[Get songs on Spotify based on your facial emotions](https://github.com/DanutGavrus/Get-songs-on-Spotify-based-on-your-facial-emotions)".
 - Operating Systems: [Linux & POSIX](https://github.com/DanutGavrus/3-C-apps-about-POSIX).
 - Cloud: RabbitMQ, Firebase, Jenkins, Heroku.
 - Others: Kafka, Docker, ZooKeeper.
@@ -28,6 +29,7 @@
 ## About me 👁️‍🗨️
 ### 📫 Reach me at
 LinkedIn & CV: https://www.linkedin.com/in/danut-gavrus.  
+Upwork: https://www.upwork.com/freelancers/~019ec730d28d49906e.  
 Mail: [danut.gavrus@gmail.com](mailto:danut.gavrus@gmail.com).
 
 ### ⚡ Fun facts / Know me better
