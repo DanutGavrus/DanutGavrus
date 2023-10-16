@@ -20,7 +20,7 @@ All my repositories contain Significant Images: https://github.com/DanutGavrus?t
 • In my spare time, I like being creative and working on personal projects, both IT and non IT related. I've made a Stereo Speaker of ~120cm length and ~50cm height from scratch, and it has been staying connected to my TV using Bluetooth for some years now;  
 • I took 1st place in 12th grade and 2nd place in 11th grade in the Mathematical Olympiad's county phase, and Honorable Mention in 12th grade in the annual "Traian Lalescu" Mathematical Competition's intercounty phase.
 
-📷 Photos of the basketball court and my handmade speaker:
+Photos of the basketball court and my handmade speaker:
 | Basketball Court | Speaker - leds off  | Speaker - leds on |
 | ------------- | ------------- | ------------- |
 | <img src="https://user-images.githubusercontent.com/56603839/226368235-6684955b-5061-42e8-b874-36802d75b767.png" width="300"> | <img src="https://user-images.githubusercontent.com/56603839/226370733-23297580-88c2-4f1d-af85-b24763c24828.png" width="375"> | <img src="https://user-images.githubusercontent.com/56603839/226368358-58c7da4f-cc46-4b55-8581-64f12878c730.png" width="400">
