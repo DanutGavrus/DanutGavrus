@@ -1,5 +1,5 @@
 ### Software Engineer | Cross-Platform, Android, Web, Back-End, 2D Games
-With various expertise as a React Native Engineer, Mobile Tech Lead, and Full Stack Engineer, I've been doing applications for:  
+With various expertise as a React Native Engineer, Mobile Tech Lead, and Full Stack Engineer, I've been crafting applications for:  
 • 🔁 Cross-Platform: Android, iOS, macOS & Web;  
 • 📱 Android Native;  
 • 💻 Web Native;  
