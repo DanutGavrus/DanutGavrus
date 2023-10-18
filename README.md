@@ -19,7 +19,7 @@ My bachelor thesis: "_Get songs on Spotify based on your facial emotions_" ([App
 ### Fun facts / Know me better ⚡
 • I took 1st place in 12th grade and 2nd place in 11th grade in the Mathematical Olympiad's county phase, and Honorable Mention in 12th grade in the annual "Traian Lalescu" Mathematical Competition's intercounty phase;  
 • I want to be part of the people who make the community better, so I tried being part of a political party once and actually went with a Basketball Court project to my city's mayor. It was implemented in 2015, it's around 14m long and 7.5m wide, and it's still freely used in the central park;  
-• In my spare time, I like being creative and working on personal projects, both IT and non IT related. I've made a Stereo Speaker of ~120cm length and ~50cm height from scratch, and it has been staying connected to my TV using Bluetooth for some years now.
+• In my spare time, I like being creative and working on personal projects, both IT and non IT related. I made a Stereo Speaker of ~120cm length and ~50cm height from scratch, and it has been staying connected to my TV using Bluetooth for some years now.
 
 | Basketball Court | Speaker - leds off  | Speaker - leds on |
 | ------------- | ------------- | ------------- |
