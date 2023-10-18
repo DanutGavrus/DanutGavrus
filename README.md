@@ -1,4 +1,3 @@
-# Hi, I'm Danut 👋
 ### Software Engineer | Cross-Platform, Android, Web, Back-End, 2D Games
 With over 3 years of experience, 2 as a Mobile Tech Lead and 1 as a Full Stack Engineer, I've made applications for:  
 • 🔁 Cross-Platform: Android, iOS, macOS & Web;  
@@ -8,11 +7,11 @@ With over 3 years of experience, 2 as a Mobile Tech Lead and 1 as a Full Stack E
 • 🎮 2D Mobile Games: Cross-Platform.  
 
 ### Portfolio 📚
+All my Repositories contain Meaningful Images: [Portfolio](https://github.com/DanutGavrus?tab=repositories).   
+
 A small recent project: "Real Time Web Messaging" ([Application](https://github.com/DanutGavrus/Real-Time-Web-Messaging-using-React-TS-Firebase-and-Tailwind-CSS)).  
 • Deployed at: https://live-chat-bde08.firebaseapp.com.  
-• Technologies used: React TS, Firebase & Tailwind CSS. 
-
-All my Repositories contain Meaningful Images: [Portfolio](https://github.com/DanutGavrus?tab=repositories).
+• Technologies used: React TS, Firebase & Tailwind CSS.
 
 ### Fun facts / Know me better ⚡
 • I took 1st place in 12th grade and 2nd place in 11th grade in the Mathematical Olympiad's county phase, and Honorable Mention in 12th grade in the annual "Traian Lalescu" Mathematical Competition's intercounty phase;  
