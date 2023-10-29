@@ -4,7 +4,7 @@ With various expertise as a React Native Engineer, Mobile Tech Lead, and Full St
 • 📱 Android Native;  
 • 💻 Web Native;  
 • 🖥️ Back End;  
-• 🎮 2D Mobile Games: Cross-Platform.  
+• 🎮 2D Games: Cross-Platform.  
 
 ### Portfolio 📚
 All my Repositories contain meaningful images: [Portfolio](https://github.com/DanutGavrus?tab=repositories).   
