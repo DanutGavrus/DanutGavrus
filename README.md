@@ -1,6 +1,6 @@
-**With various expertise in IT, I've been crafting applications for:**  
-• 🔁 Cross Platform;  
+**With various IT expertise as a Mobile Tech Lead, a React Native Engineer and a Full Stack Engineer, I've been crafting applications for:**  
 • 📱 Android Native;  
+• 🔁 Cross Platform;  
 • 💻 Web Native;  
 • 🖥️ Back End;  
 • 🎮 and 2D Cross Platform Games.  
