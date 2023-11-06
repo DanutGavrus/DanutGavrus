@@ -1,9 +1,9 @@
-**With various IT expertise as a Mobile Tech Lead, a React Native Engineer and a Full Stack Engineer, I've been crafting applications for:**  
-• 📱 Android Native;  
+**Expertise as a Mobile Tech Lead, Full Stack Engineer, and React Native Engineer.**  
 • 🔁 Cross Platform;  
+• 📱 Android Native;  
 • 💻 Web Native;  
 • 🖥️ Back End;  
-• 🎮 and 2D Cross Platform Games.  
+• 🎮 2D Games.  
 
 **Portfolio 📚**  
 • All my Repositories contain meaningful images: [Portfolio](https://github.com/DanutGavrus?tab=repositories);  
