@@ -7,10 +7,10 @@
 
 **Portfolio 📚**  
 • All my Repositories contain meaningful images: [Portfolio](https://github.com/DanutGavrus?tab=repositories);  
-• A small recent project: "_Real Time Web Messaging_" ([Application](https://github.com/DanutGavrus/Real-Time-Web-Messaging-using-React-TS-Firebase-and-Tailwind-CSS)).  
-&emsp; Deployed at: https://live-chat-bde08.firebaseapp.com.  
+• A small recent [project](https://github.com/DanutGavrus/Real-Time-Web-Messaging-using-React-TS-Firebase-and-Tailwind-CSS): "_Real Time Web Messaging_".  
+&emsp; Live at: [Firebase](https://live-chat-bde08.firebaseapp.com).  
 &emsp; Technologies used: React TS, Firebase & Tailwind CSS;  
-• Bachelor thesis: "_Get songs on Spotify based on your facial emotions_" ([Application](https://github.com/DanutGavrus/Get-songs-on-Spotify-based-on-your-facial-emotions)).  
+• Bachelor [thesis](https://github.com/DanutGavrus/Get-songs-on-Spotify-based-on-your-facial-emotions): "_Get songs on Spotify based on your facial emotions_".  
 &emsp; Technologies used: Python, Flask, & Kotlin.
 
 **Fun facts ⚡**  
