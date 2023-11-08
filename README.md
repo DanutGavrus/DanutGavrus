@@ -11,7 +11,7 @@
 &emsp; Live at: [Firebase](https://live-chat-bde08.firebaseapp.com).  
 &emsp; Technologies used: React TS, Firebase & Tailwind CSS;  
 • Bachelor [thesis](https://github.com/DanutGavrus/Get-songs-on-Spotify-based-on-your-facial-emotions): "_Get songs on Spotify based on your facial emotions_".  
-&emsp; Technologies used: Python, Flask, & Kotlin.
+&emsp; Technologies used: Python, Flask & Kotlin.
 
 **Fun facts ⚡**  
 • Took 1st place in 12th grade and 2nd place in 11th grade in the Mathematical Olympiad's county phase, and Honorable Mention in 12th grade in the annual "Traian Lalescu" Mathematical Competition's intercounty phase;  
