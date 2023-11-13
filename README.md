@@ -1,17 +1,16 @@
 **Expertise as a Mobile Tech Lead, Full Stack Engineer, and React Native Engineer.**  
-• 🔁 Cross Platform;  
-• 📱 Android Native;  
-• 💻 Web Native;  
-• 🖥️ Back End;  
-• 🎮 2D Games.  
+• 🔁 Cross Platform (React Native);  
+• 📱 Android Native (Kotlin, Java);  
+• 💻 Web Native (React class & functional components, TypeScript, JavaScript, Tailwind CSS);  
+• 🖥️ Back End (Java Spring Boot, Flask in Python);  
+• 🎮 2D Games (C# in Unity).  
 
 **Portfolio 📚**  
 • All my Repositories contain meaningful images: [Portfolio](https://github.com/DanutGavrus?tab=repositories);  
 • A small recent [project](https://github.com/DanutGavrus/Real-Time-Web-Messaging-using-React-TS-Firebase-and-Tailwind-CSS): "_Real Time Web Messaging_".  
 &emsp; Live at: [Firebase](https://live-chat-bde08.firebaseapp.com).  
-&emsp; Technologies used: React TS, Firebase & Tailwind CSS;  
 • Bachelor [thesis](https://github.com/DanutGavrus/Get-songs-on-Spotify-based-on-your-facial-emotions): "_Get songs on Spotify based on your facial emotions_".  
-&emsp; Technologies used: Python, Flask & Kotlin.
+• Others: CI/CD (GitHub [Actions](https://github.com/DanutGavrus/Real-Time-Web-Messaging-using-React-TS-Firebase-and-Tailwind-CSS/actions), Jenkins, Firebase, Heroku) | Linux and POSIX (C) - [Apps](https://github.com/DanutGavrus/3-C-apps-about-POSIX) | Fundamental Algorithms and Data Structures (C) - [Apps](https://github.com/DanutGavrus/9-C-apps-about-Fundamental-Algorithms-and-Data-Structures) | Java GUI (Swing) - [Apps](https://github.com/DanutGavrus/5-Java-apps-with-GUIs) | web automation & scraping (Selenium) - [App](https://github.com/DanutGavrus/Web-Scraping-using-Selenium-in-Python) | C++, Kafka, Docker, ZooKeeper, RabbitMQ, and more.  
 
 **Fun facts ⚡**  
 • Took 1st place in 12th grade and 2nd place in 11th grade in the Mathematical Olympiad's county phase, and Honorable Mention in 12th grade in the annual "Traian Lalescu" Mathematical Competition's intercounty phase;  
