@@ -1,7 +1,7 @@
-**Job expertise (Back-end Engineer, Mobile Tech Lead, Front-end Engineer) and other skills:**  
-• 🖥️ Back-end (Spring Boot in Java & Kotlin, Flask in Python);  
+**Job expertise (Back-End Engineer, Mobile Tech Lead, Front-End Engineer) and other skills:**  
+• 🖥️ Back-End (Spring Boot in Java & Kotlin, Flask in Python);  
 • 📱 Android (Kotlin, Java);  
-• 💻 Front-end (React class & functional components, TypeScript, JavaScript, Tailwind CSS);  
+• 💻 Front-End (React class & functional components, TypeScript, JavaScript, Tailwind CSS);  
 • 🔁 Cross Platform (React Native);  
 • 🤖 Artificial Intelligence (Python);  
 • 🎮 2D Games (C# in Unity).  
