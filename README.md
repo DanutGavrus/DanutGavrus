@@ -1,8 +1,8 @@
-**Expertise as a Mobile Tech Lead, Full Stack Engineer, and React Native Engineer.**  
+**Job expertise (Back-end Engineer, Mobile Tech Lead, Front-end Engineer) and other skills:**  
+• 🖥️ Back-end (Spring Boot in Java & Kotlin, Flask in Python);  
+• 📱 Android (Kotlin, Java);  
+• 💻 Front-end (React class & functional components, TypeScript, JavaScript, Tailwind CSS);  
 • 🔁 Cross Platform (React Native);  
-• 📱 Android Native (Kotlin, Java);  
-• 💻 Web Native (React class & functional components, TypeScript, JavaScript, Tailwind CSS);  
-• 🖥️ Back End (Java Spring Boot, Flask in Python);  
 • 🤖 Artificial Intelligence (Python);  
 • 🎮 2D Games (C# in Unity).  
 
