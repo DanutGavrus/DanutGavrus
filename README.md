@@ -1,18 +1,17 @@
-**Job expertise (Back-End Engineer, Mobile Tech Lead, Front-End Engineer) and other skills:**  
-• 🖥️ Back-End (Spring Boot in Java & Kotlin, Flask in Python);  
+**Job expertise (Mobile Tech Lead, Back-End Engineer, Front-End Engineer) and main technologies:**  
 • 📱 Android (Kotlin, Java);  
-• 💻 Front-End (React class & functional components, TypeScript, JavaScript, Tailwind CSS);  
 • 🔁 Cross Platform (React Native);  
+• 🖥️ Back-End (Java & Kotlin Spring Boot, Python Flask);  
+• 💻 Front-End (React class & functional, TypeScript, JavaScript, Tailwind CSS);  
 • 🤖 Artificial Intelligence (Python);  
 • 🎮 2D Games (C# in Unity).  
 
 **Portfolio 📚**  
-• All my Repositories contain meaningful images: [Portfolio](https://github.com/DanutGavrus?tab=repositories).
-
+• All my Repositories contain meaningful images: [Portfolio](https://github.com/DanutGavrus?tab=repositories).  
 • A small recent [project](https://github.com/DanutGavrus/Real-Time-Web-Messaging-using-React-TS-Firebase-and-Tailwind-CSS) (React): "_Real Time Web Messaging_". Live at: [Firebase](https://live-chat-bde08.firebaseapp.com);  
 • Bachelor [thesis](https://github.com/DanutGavrus/Get-songs-on-Spotify-based-on-your-facial-emotions) (Python AI): "_Get songs on Spotify based on your facial emotions_";  
 
-• Other technologies: SQL & NoSQL Databases (MySQL, PostgreSQL, MongoDB, Firestore) | CI/CD (GitHub [Actions](https://github.com/DanutGavrus/Real-Time-Web-Messaging-using-React-TS-Firebase-and-Tailwind-CSS/actions), Jenkins, Firebase, Heroku) | Java GUI (Swing) - [Apps](https://github.com/DanutGavrus/5-Java-apps-with-GUIs) | Linux and POSIX (C) - [Apps](https://github.com/DanutGavrus/3-C-apps-about-POSIX) | Fundamental Algorithms and Data Structures (C) - [Apps](https://github.com/DanutGavrus/9-C-apps-about-Fundamental-Algorithms-and-Data-Structures) | Web Automation & Scraping (Selenium) - [App](https://github.com/DanutGavrus/Web-Scraping-using-Selenium-in-Python) | C++, Docker, Tomcat, Jetty, Kafka, ZooKeeper, RabbitMQ, Swagger, Testing, HTML, CSS, Agile, and more.  
+• Other technologies: OOP (Java Swing) - [Apps](https://github.com/DanutGavrus/5-Java-apps-with-GUIs) | SQL & NoSQL Databases (MySQL, PostgreSQL, MongoDB, Firestore) | CI/CD (GitHub [Actions](https://github.com/DanutGavrus/Real-Time-Web-Messaging-using-React-TS-Firebase-and-Tailwind-CSS/actions), Jenkins, Firebase, Heroku) | Linux and POSIX (C) - [Apps](https://github.com/DanutGavrus/3-C-apps-about-POSIX) | Fundamental Algorithms and Data Structures (C) - [Apps](https://github.com/DanutGavrus/9-C-apps-about-Fundamental-Algorithms-and-Data-Structures) | Web Automation & Scraping (Selenium) - [App](https://github.com/DanutGavrus/Web-Scraping-using-Selenium-in-Python) | Docker, Tomcat, Jetty, Kafka, ZooKeeper, RabbitMQ, C++, Testing, Swagger, Agile, and more.  
 
 **Fun facts ⚡**  
 • Took 1st place in 12th grade and 2nd place in 11th grade in the Mathematical Olympiad's county phase, and Honorable Mention in 12th grade in the annual "Traian Lalescu" Mathematical Competition's intercounty phase;  
