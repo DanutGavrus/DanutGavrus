@@ -10,8 +10,8 @@
 • Plus: OOP ([Swing](https://github.com/DanutGavrus/5-Java-GUI-apps-using-Swing)) | Linux and [POSIX](https://github.com/DanutGavrus/3-C-apps-about-POSIX) (C) | Fundamental Algorithms and Data Structures ([C](https://github.com/DanutGavrus/9-C-apps-about-Fundamental-Algorithms-and-Data-Structures)) | Software Testing (Cypress, Unit, Integration, Postman) | Web Automation & Scraping ([Selenium](https://github.com/DanutGavrus/Web-Scraping-using-Selenium-in-Python)) | C++, Swagger, Agile, and more.
 
 **Portfolio**  
-• My repositories contain meaningful images: [Portfolio](https://github.com/DanutGavrus?tab=repositories);  
-• A nice project: "_Real Time Web Messaging_". Live [here](https://live-chat-bde08.firebaseapp.com);  
+• My [repositories](https://github.com/DanutGavrus?tab=repositories) contain meaningful images;  
+• I have a nice project: "_Real Time Web Messaging_" running live [here](https://live-chat-bde08.firebaseapp.com);  
 • Bachelor thesis: "_Get songs on Spotify based on your facial emotions_".
 
 **Fun facts**  
