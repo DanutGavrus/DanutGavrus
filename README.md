@@ -1,19 +1,20 @@
-**Professional proficiency (Tech Lead & Full-Stack Engineer) and technologies:**  
-• 📱 Android (Kotlin, Java);  
-• 🔁 Cross Platform (React Native);  
+**Professional proficiency (Tech Lead & Senior Software Engineer) & technologies:**  
 • 🖥️ Back-End (Java & Kotlin Spring Boot, Python Flask);  
-• 💻 Front-End (React class & functional, Angular, TypeScript, JavaScript, Tailwind CSS);  
-• 🤖 Artificial Intelligence (Python);  
-• 🎮 2D Games (C# in Unity).  
+• 💻 Front-End ([React](https://github.com/DanutGavrus/Real-Time-Web-Messaging-using-React-TS-Firebase-and-Tailwind-CSS) class & functional, Angular, TypeScript, JavaScript, Tailwind/Bootstrap/LESS);  
+• 📱 Android Native (Kotlin, Java);  
+• 🔁 Cross Platform (React Native);  
+• 🌐 DevOps & CI/CD (Linode, Harbor, Jenkins, GitHub [Actions](https://github.com/DanutGavrus/Real-Time-Web-Messaging-using-React-TS-Firebase-and-Tailwind-CSS/actions), Firebase, Docker, Heroku, Kubernetes, Kafka, ZooKeeper, Tomcat, Jetty, RabbitMQ);  
+• ⛃ SQL & NoSQL Databases (MySQL, PostgreSQL, MongoDB, Firestore, Hibernate);  
+• 🎮 2D Games (C# in [Unity](https://github.com/DanutGavrus/7-2D-Mobile-Games-using-CSharp-in-Unity));  
+• 🤖 Artificial Intelligence ([Python](https://github.com/DanutGavrus/Get-songs-on-Spotify-based-on-your-facial-emotions));  
+• Plus: OOP ([Swing](https://github.com/DanutGavrus/5-Java-GUI-apps-using-Swing)) | Linux and [POSIX](https://github.com/DanutGavrus/3-C-apps-about-POSIX) (C) | Fundamental Algorithms and Data Structures ([C](https://github.com/DanutGavrus/9-C-apps-about-Fundamental-Algorithms-and-Data-Structures)) | Software Testing (Cypress, Unit, Integration, Postman) | Web Automation & Scraping ([Selenium](https://github.com/DanutGavrus/Web-Scraping-using-Selenium-in-Python)) | C++, Swagger, Agile, and more.
 
-**Portfolio 📚**  
-• All my Repositories contain meaningful images: [Portfolio](https://github.com/DanutGavrus?tab=repositories).  
-• A very clean [project](https://github.com/DanutGavrus/Real-Time-Web-Messaging-using-React-TS-Firebase-and-Tailwind-CSS) (React): "_Real Time Web Messaging_". Live at: [Firebase](https://live-chat-bde08.firebaseapp.com);  
-• Bachelor [thesis](https://github.com/DanutGavrus/Get-songs-on-Spotify-based-on-your-facial-emotions) (Python AI): "_Get songs on Spotify based on your facial emotions_";  
+**Portfolio**  
+• My repositories contain meaningful images: [Portfolio](https://github.com/DanutGavrus?tab=repositories);  
+• A nice project: "_Real Time Web Messaging_". Live [here](https://live-chat-bde08.firebaseapp.com);  
+• Bachelor thesis: "_Get songs on Spotify based on your facial emotions_".
 
-• OOP (Java Swing) - [Apps](https://github.com/DanutGavrus/5-Java-apps-with-GUIs) | SQL & NoSQL Databases (MySQL, PostgreSQL, MongoDB, Firestore) | CI/CD (GitHub [Actions](https://github.com/DanutGavrus/Real-Time-Web-Messaging-using-React-TS-Firebase-and-Tailwind-CSS/actions), Jenkins, Firebase, Heroku) | Linux and POSIX (C) - [Apps](https://github.com/DanutGavrus/3-C-apps-about-POSIX) | Fundamental Algorithms and Data Structures (C) - [Apps](https://github.com/DanutGavrus/9-C-apps-about-Fundamental-Algorithms-and-Data-Structures) | Web Automation & Scraping (Selenium) - [App](https://github.com/DanutGavrus/Web-Scraping-using-Selenium-in-Python) | C++, Docker, Kubernetes, Hibernate, Kafka, ZooKeeper, Tomcat, Jetty, RabbitMQ, Swagger, Software Testing, Agile, and more.  
-
-**Fun facts ⚡**  
+**Fun facts**  
 • Took 1st place in 12th grade and 2nd place in 11th grade in the Mathematical Olympiad's county phase, and Honorable Mention in 12th grade in the annual "Traian Lalescu" Mathematical Competition's intercounty phase;  
 • I want to be part of the people who make the community better, so I tried being part of a political party once and actually went with a Basketball Court project to my city's mayor. It was implemented in 2015, it's around 14m long and 7.5m wide, and it's still freely used in the central park;  
 • In my spare time, I like being creative and working on personal projects, both IT and non IT related. I made a Stereo Speaker of ~120cm length and ~50cm height from scratch, and it has been staying connected to my TV using Bluetooth for some years now.
