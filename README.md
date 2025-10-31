@@ -3,11 +3,11 @@
 • 💻 Front-End ([React](https://github.com/DanutGavrus/Real-Time-Web-Messaging-using-React-TS-Firebase-and-Tailwind-CSS) class & functional, Angular, TypeScript, JavaScript, Tailwind/Bootstrap/LESS);  
 • 📱 Android Native (Kotlin, Java);  
 • 🔁 Cross Platform (React Native);  
-• 🌐 DevOps & CI/CD (Linode, Harbor, Jenkins, GitHub [Actions](https://github.com/DanutGavrus/Real-Time-Web-Messaging-using-React-TS-Firebase-and-Tailwind-CSS/actions), Firebase, Docker, Heroku, Kubernetes, Kafka, ZooKeeper, Tomcat, Jetty, RabbitMQ);  
-• ⛃ SQL & NoSQL Databases (MySQL, PostgreSQL, MongoDB, Firestore, Hibernate);  
+• 🌐 DevOps (Azure AD / Entra ID with SAML 2.0, Docker, Kubernetes, Linode, Harbor, Jenkins, GitHub [Actions](https://github.com/DanutGavrus/Real-Time-Web-Messaging-using-React-TS-Firebase-and-Tailwind-CSS/actions), Nginx, Firebase, Kafka, RabbitMQ, ZooKeeper, Tomcat, Jetty);  
+• ⛃ SQL & NoSQL Databases (Firestore, PostgreSQL, Hibernate, MongoDB, MySQL);  
 • 🎮 2D Games (C# in [Unity](https://github.com/DanutGavrus/7-2D-Mobile-Games-using-CSharp-in-Unity));  
 • 🤖 Artificial Intelligence ([Python](https://github.com/DanutGavrus/Get-songs-on-Spotify-based-on-your-facial-emotions));  
-• Plus: OOP ([Swing](https://github.com/DanutGavrus/5-Java-GUI-apps-using-Swing)) | Linux and [POSIX](https://github.com/DanutGavrus/3-C-apps-about-POSIX) (C) | Fundamental Algorithms and Data Structures ([C](https://github.com/DanutGavrus/9-C-apps-about-Fundamental-Algorithms-and-Data-Structures)) | Software Testing (Cypress, Unit, Integration, Postman) | Web Automation & Scraping ([Selenium](https://github.com/DanutGavrus/Web-Scraping-using-Selenium-in-Python)) | C++, Swagger, Agile, and more.
+• Plus: OOP ([Swing](https://github.com/DanutGavrus/5-Java-GUI-apps-using-Swing)) | Linux and [POSIX](https://github.com/DanutGavrus/3-C-apps-about-POSIX) (C) | Fundamental Algorithms and Data Structures ([C](https://github.com/DanutGavrus/9-C-apps-about-Fundamental-Algorithms-and-Data-Structures)) | Software Testing (Cypress, Unit, Integration, Postman) | Web Automation ([Selenium](https://github.com/DanutGavrus/Web-Scraping-using-Selenium-in-Python)) | Auto & Video Identification (Intrum) | Document Verification (Regula Docreader SDK) | C++, Swagger, Agile, and more.
 
 **Portfolio**  
 • My [repositories](https://github.com/DanutGavrus?tab=repositories) contain meaningful images;  
