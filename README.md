@@ -1,18 +1,18 @@
-**Professional proficiency (Tech Lead & Senior Software Engineer) & technologies:**  
-• 🖥️ Back-End (Java & Kotlin Spring Boot, Python Flask);  
-• 💻 Front-End ([React](https://github.com/DanutGavrus/Real-Time-Web-Messaging-using-React-TS-Firebase-and-Tailwind-CSS) class & functional, Angular, TypeScript, JavaScript, Tailwind/Bootstrap/LESS);  
-• 📱 Android Native (Kotlin, Java);  
-• 🔁 Cross Platform (React Native);  
-• 🌐 DevOps (Azure AD / Entra ID with SAML 2.0, Docker, Kubernetes, Linode, Harbor, Jenkins, GitHub [Actions](https://github.com/DanutGavrus/Real-Time-Web-Messaging-using-React-TS-Firebase-and-Tailwind-CSS/actions), Nginx, Firebase, Kafka, RabbitMQ, ZooKeeper, Tomcat, Jetty);  
-• ⛃ SQL & NoSQL Databases (Firestore, PostgreSQL, Hibernate, MongoDB, MySQL);  
-• 🎮 2D Games (C# in [Unity](https://github.com/DanutGavrus/7-2D-Mobile-Games-using-CSharp-in-Unity));  
-• 🤖 Artificial Intelligence ([Python](https://github.com/DanutGavrus/Get-songs-on-Spotify-based-on-your-facial-emotions));  
-• Plus: OOP ([Swing](https://github.com/DanutGavrus/5-Java-GUI-apps-using-Swing)) | Linux and [POSIX](https://github.com/DanutGavrus/3-C-apps-about-POSIX) (C) | Fundamental Algorithms and Data Structures ([C](https://github.com/DanutGavrus/9-C-apps-about-Fundamental-Algorithms-and-Data-Structures)) | Software Testing (Cypress, Unit, Integration, Postman) | Web Automation ([Selenium](https://github.com/DanutGavrus/Web-Scraping-using-Selenium-in-Python)) | Auto & Video Identification (Intrum) | Document Verification (Regula Docreader SDK) | C++, Swagger, Agile, and more.
+Senior FinTech Product Engineer with 6+ years of experience building and scaling financial platforms across payments, digital onboardings, identity, and cloud platforms. Specialized in Java Spring Boot backends, modern web/mobile applications, secure authentication (SAML, Azure AD), and production infrastructure. Proven in delivering systems used by banks and enterprise clients, measurably improving reliability, security, and release efficiency. Comfortable leading features end‑to‑end from architecture through production.
+
+• 🖥️ Back-End: Java Spring Boot, Kotlin, Python Flask  
+• 💻 Frontend: [React](https://github.com/DanutGavrus/Real-Time-Web-Messaging-using-React-TS-Firebase-and-Tailwind-CSS), Angular, TypeScript, JavaScript  
+• 📱 Mobile: Android (Kotlin/Java), React Native  
+• 🌐 Cloud & DevOps: Docker, Kubernetes, Azure AD/Entra ID, Jenkins, GitHub [Actions](https://github.com/DanutGavrus/Real-Time-Web-Messaging-using-React-TS-Firebase-and-Tailwind-CSS/actions), Apache, Firebase  
+• ⛃ Databases: PostgreSQL, MongoDB, MySQL, Firestore  
+• ✉️ Messaging: Kafka, RabbitMQ, ZooKeeper  
+• 🔧 Testing & QA: Cypress, unit/integration testing, Postman, Selenium
+• Plus: Artificial Intelligence (Python](https://github.com/DanutGavrus/Get-songs-on-Spotify-based-on-your-facial-emotions)) | Fundamental Algorithms and Data Structures ([C](https://github.com/DanutGavrus/9-C-apps-about-Fundamental-Algorithms-and-Data-Structures)) | Linux and [POSIX](https://github.com/DanutGavrus/3-C-apps-about-POSIX) (C) | OOP ([Swing](https://github.com/DanutGavrus/5-Java-GUI-apps-using-Swing)) | 2D Games (C# in [Unity](https://github.com/DanutGavrus/7-2D-Mobile-Games-using-CSharp-in-Unity)) | Web Automation ([Selenium](https://github.com/DanutGavrus/Web-Scraping-using-Selenium-in-Python)) | C++, Swagger, Agile, and more.
 
 **Portfolio**  
 • My [repositories](https://github.com/DanutGavrus?tab=repositories) contain meaningful images;  
 • I have a nice project: "_Real Time Web Messaging_" running live [here](https://live-chat-bde08.firebaseapp.com);  
-• Bachelor thesis: "_Get songs on Spotify based on your facial emotions_".
+• Bachelor thesis: "_Emotion‑based Spotify recommendation system._".
 
 **Fun facts**  
 • Took 1st place in 12th grade and 2nd place in 11th grade in the Mathematical Olympiad's county phase, and Honorable Mention in 12th grade in the annual "Traian Lalescu" Mathematical Competition's intercounty phase;  
