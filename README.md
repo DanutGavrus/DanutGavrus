@@ -6,8 +6,8 @@ Senior FinTech Product Engineer with 6+ years of experience building and scaling
 • 🌐 Cloud & DevOps: Docker, Kubernetes, Azure AD/Entra ID, Jenkins, GitHub [Actions](https://github.com/DanutGavrus/Real-Time-Web-Messaging-using-React-TS-Firebase-and-Tailwind-CSS/actions), Apache, Firebase  
 • ⛃ Databases: PostgreSQL, MongoDB, MySQL, Firestore  
 • ✉️ Messaging: Kafka, RabbitMQ, ZooKeeper  
-• 🔧 Testing & QA: Cypress, unit/integration testing, Postman, Selenium
-• Plus: Artificial Intelligence (Python](https://github.com/DanutGavrus/Get-songs-on-Spotify-based-on-your-facial-emotions)) | Fundamental Algorithms and Data Structures ([C](https://github.com/DanutGavrus/9-C-apps-about-Fundamental-Algorithms-and-Data-Structures)) | Linux and [POSIX](https://github.com/DanutGavrus/3-C-apps-about-POSIX) (C) | OOP ([Swing](https://github.com/DanutGavrus/5-Java-GUI-apps-using-Swing)) | 2D Games (C# in [Unity](https://github.com/DanutGavrus/7-2D-Mobile-Games-using-CSharp-in-Unity)) | Web Automation ([Selenium](https://github.com/DanutGavrus/Web-Scraping-using-Selenium-in-Python)) | C++, Swagger, Agile, and more.
+• 🔧 Testing & QA: Cypress, unit/integration testing, Postman    
+• Plus: Artificial Intelligence [Python](https://github.com/DanutGavrus/Get-songs-on-Spotify-based-on-your-facial-emotions) | Fundamental Algorithms and Data Structures ([C](https://github.com/DanutGavrus/9-C-apps-about-Fundamental-Algorithms-and-Data-Structures)) | Linux and [POSIX](https://github.com/DanutGavrus/3-C-apps-about-POSIX) (C) | OOP ([Swing](https://github.com/DanutGavrus/5-Java-GUI-apps-using-Swing)) | 2D Games (C# in [Unity](https://github.com/DanutGavrus/7-2D-Mobile-Games-using-CSharp-in-Unity)) | Web Automation ([Selenium](https://github.com/DanutGavrus/Web-Scraping-using-Selenium-in-Python)) | C++, Swagger, Agile, and more.
 
 **Portfolio**  
 • My [repositories](https://github.com/DanutGavrus?tab=repositories) contain meaningful images;  
