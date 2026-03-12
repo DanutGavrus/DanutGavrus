@@ -1,4 +1,4 @@
-Senior FinTech Product Engineer with 6+ years of experience building and scaling financial platforms across payments, digital onboardings, identity, and cloud platforms. Specialized in Java Spring Boot backends, modern web/mobile applications, secure authentication (SAML, Azure AD), and production infrastructure. Proven in delivering systems used by banks and enterprise clients, measurably improving reliability, security, and release efficiency. Comfortable leading features end‑to‑end from architecture through production.
+Senior FinTech Product Engineer with 6+ years of experience building and scaling financial platforms across payments, digital onboardings, identity, and cloud platforms. Specialized in Java Spring Boot backends, modern web/mobile applications, secure authentication (SAML, Azure AD), and production infrastructure. Proven in delivering systems used by banks and enterprise clients, measurably improving reliability, security, and release efficiency. Comfortable leading features end‑to‑end from business ideas through production.
 
 • 🖥️ Back-End: Java Spring Boot, Kotlin, Python Flask  
 • 💻 Frontend: [React](https://github.com/DanutGavrus/Real-Time-Web-Messaging-using-React-TS-Firebase-and-Tailwind-CSS), Angular, TypeScript, JavaScript  
@@ -7,7 +7,7 @@ Senior FinTech Product Engineer with 6+ years of experience building and scaling
 • ⛃ Databases: PostgreSQL, MongoDB, MySQL, Firestore  
 • ✉️ Messaging: Kafka, RabbitMQ, ZooKeeper  
 • 🔧 Testing & QA: Cypress, unit/integration testing, Postman    
-• Plus: Artificial Intelligence [Python](https://github.com/DanutGavrus/Get-songs-on-Spotify-based-on-your-facial-emotions) | Fundamental Algorithms and Data Structures ([C](https://github.com/DanutGavrus/9-C-apps-about-Fundamental-Algorithms-and-Data-Structures)) | Linux and [POSIX](https://github.com/DanutGavrus/3-C-apps-about-POSIX) (C) | OOP ([Swing](https://github.com/DanutGavrus/5-Java-GUI-apps-using-Swing)) | 2D Games (C# in [Unity](https://github.com/DanutGavrus/7-2D-Mobile-Games-using-CSharp-in-Unity)) | Web Automation ([Selenium](https://github.com/DanutGavrus/Web-Scraping-using-Selenium-in-Python)) | C++, Swagger, Agile, and more.
+• ➕️ Artificial Intelligence [Python](https://github.com/DanutGavrus/Get-songs-on-Spotify-based-on-your-facial-emotions) | Fundamental Algorithms and Data Structures ([C](https://github.com/DanutGavrus/9-C-apps-about-Fundamental-Algorithms-and-Data-Structures)) | Linux and [POSIX](https://github.com/DanutGavrus/3-C-apps-about-POSIX) (C) | OOP ([Swing](https://github.com/DanutGavrus/5-Java-GUI-apps-using-Swing)) | 2D Games (C# in [Unity](https://github.com/DanutGavrus/7-2D-Mobile-Games-using-CSharp-in-Unity)) | Web Automation ([Selenium](https://github.com/DanutGavrus/Web-Scraping-using-Selenium-in-Python)) | C++, Swagger, Agile, and more.
 
 **Portfolio**  
 • My [repositories](https://github.com/DanutGavrus?tab=repositories) contain meaningful images;  
