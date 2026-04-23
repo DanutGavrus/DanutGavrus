@@ -23,4 +23,5 @@ Senior FinTech Product Engineer with 6+ years of experience building and scaling
 | ------------- | ------------- | ------------- |
 | <img src="https://user-images.githubusercontent.com/56603839/226368235-6684955b-5061-42e8-b874-36802d75b767.png" width="218"> | <img src="https://user-images.githubusercontent.com/56603839/226370733-23297580-88c2-4f1d-af85-b24763c24828.png" width="350"> | <img src="https://user-images.githubusercontent.com/56603839/226368358-58c7da4f-cc46-4b55-8581-64f12878c730.png" width="375">
 
-Interests: sports & fitness, travel, technology innovation.
+**Interests**  
+Sports & fitness, travel, technology innovation.
