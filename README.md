@@ -1,13 +1,13 @@
-Senior FinTech Product Engineer with years of experience building and scaling financial platforms across payments, digital onboarding, identity, and cloud platforms. Specialized in Java Spring Boot backends, modern web & mobile applications, secure authentication, and production infrastructure. Proven track record delivering systems used by banks and enterprise clients, measurably improving reliability, security, and release efficiency. **Leads features end-to-end from business ideas through production.**
+Senior Software Engineer with nearly **7 years** of experience building financial software across payments, digital onboarding, and identity verification. Specialized in **Java Spring Boot**, combining full-stack engineering with hands-on technical leadership. Experienced in delivering enterprise integrations, owning complex features from requirements through production, and improving reliability for banking and enterprise clients.
 
-• 🖥️ Back-End: Java (Spring Boot), Kotlin, Python (Flask)  
+• 🖥️ Back-End: Java Spring Boot, Kotlin Spring Boot, Python (Flask)  
 • 💻 Frontend: [React](https://github.com/DanutGavrus/Real-Time-Web-Messaging-using-React-TS-Firebase-and-Tailwind-CSS), Angular, TypeScript  
-• 📱 Mobile: Android (Kotlin/Java), React Native  
-• 🌐 Cloud & DevOps: Docker, Kubernetes, Jenkins, GitHub [Actions](https://github.com/DanutGavrus/Real-Time-Web-Messaging-using-React-TS-Firebase-and-Tailwind-CSS/actions)  
+• 🌐 Cloud & DevOps: Docker, Kubernetes, Jenkins, GitHub [Actions](https://github.com/DanutGavrus/Real-Time-Web-Messaging-using-React-TS-Firebase-and-Tailwind-CSS/actions), Linux, Apache HTTP Server  
 • 🫆 Identity & Security: Microsoft Entra ID, SAML, OAuth2  
 • 🛢️ Databases: PostgreSQL, MongoDB, MySQL  
 • ✉️ Messaging: Kafka, RabbitMQ  
-• 🔎 Testing: Cypress, unit & integration testing  
+• 📱 Mobile: Android (Kotlin/Java), React Native  
+• 🔎 Testing: Cypress, Unit & Integration Testing  
 • 🛠️ Projects: AI-based systems ([Python](https://github.com/DanutGavrus/Get-songs-on-Spotify-based-on-your-facial-emotions)) | Algorithms and Data Structures ([C](https://github.com/DanutGavrus/9-C-apps-about-Fundamental-Algorithms-and-Data-Structures)) | Linux and [POSIX](https://github.com/DanutGavrus/3-C-apps-about-POSIX) (C) | OOP ([Swing](https://github.com/DanutGavrus/5-Java-GUI-apps-using-Swing)) | 2D Games (C# in [Unity](https://github.com/DanutGavrus/7-2D-Mobile-Games-using-CSharp-in-Unity)) | Automation Tools ([Selenium](https://github.com/DanutGavrus/Web-Scraping-using-Selenium-in-Python)).
 
 **Portfolio**  
